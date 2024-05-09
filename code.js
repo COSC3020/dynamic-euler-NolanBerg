@@ -9,3 +9,5 @@ function e(n) {
 
     return result;
 }
+
+module.exports = { e };
