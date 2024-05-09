@@ -18,3 +18,9 @@ but you need to go beyond that.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+Sources: Used ai for this assignment
+
+The loop runs from 1 to $(n)$, so it iterates $(n)$ times.
+  
+Since both operations inside the loop are constant time operations, and the loop runs $(n)$ times, the $\Theta$ time complexity is $\Theta(n)$.
